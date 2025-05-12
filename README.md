@@ -34,4 +34,4 @@ The test will:
 
 ---
 
-Built with ❤️ by DHANUSH I G
+Built  by DHANUSH I G
