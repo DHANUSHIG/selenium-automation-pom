@@ -26,6 +26,8 @@ The test will:
 - Add items to cart
 - Checkout
 - Confirm the order
+The Seperate Test case DDT Login
+- Checks the set of user name and password using the JSON File 
 
 ## 💡 Note
 
