@@ -49,8 +49,8 @@ public class BaseClass {
 		LT.clickBurgerMenu();
 		LT.clickLogout();
 	}
-	/*
-	 * @AfterMethod public void Quit() { if(driver!=null) { driver.quit(); } }
-	 */
+	
+	  @AfterMethod public void Quit() { if(driver!=null) { driver.quit(); } }
+	 
 
 }

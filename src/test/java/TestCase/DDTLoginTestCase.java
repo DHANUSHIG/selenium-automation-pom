@@ -77,6 +77,7 @@ public class DDTLoginTestCase {
 
         // Create an array to store the login credentials as strings (username, password)
         String arr[] = new String[userloginArray.size()];
+        System.out.println("Hii IG ");
         
         // Iterate through the "logins" array and retrieve each login data
         for (int i = 0; i < userloginArray.size(); i++) {
@@ -88,6 +89,7 @@ public class DDTLoginTestCase {
             // Combine the username and password into a single string and store it in the array
             arr[i] = user + "," + pwd;
         }
+        
 
         // Return the array of login credentials
         return arr;
